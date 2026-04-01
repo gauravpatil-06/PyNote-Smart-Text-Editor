@@ -1,0 +1,15 @@
+# Folders to ignore
+__pycache__/
+venv/
+.venv/
+build/
+dist/
+.vscode/
+.idea/
+
+# Files to ignore
+*.spec
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
